@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='jbbijnpooeejdnlbkfnjpljnmapchgjh'>
+    <updatecheck codebase='https://example.com/mskb/mskb-plugin.crx' version='2026.11.20.21'/>
+  </app>
+</gupdate>
